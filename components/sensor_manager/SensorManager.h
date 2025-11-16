@@ -1,0 +1,15 @@
+/*
+ * SensorManager.h
+ *
+ *  Created on: Nov 16, 2025
+ *      Author: hi
+ */
+
+#ifndef COMPONENTS_SENSOR_MANAGER_SENSORMANAGER_H_
+#define COMPONENTS_SENSOR_MANAGER_SENSORMANAGER_H_
+
+
+
+
+
+#endif /* COMPONENTS_SENSOR_MANAGER_SENSORMANAGER_H_ */
